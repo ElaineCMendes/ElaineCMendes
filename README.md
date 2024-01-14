@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @ElaineCMendes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá :punch:
+<br>
 
-<!---
-ElaineCMendes/ElaineCMendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Elaine, começando na programção serei uma desenvolvedora fullstack, sou Assistente Social e apaixonada pela tecnologia.Estou aprendendo e criando 
+projetos dentro do curso Devclub com as tecnologias:
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> 
+
+[![Elaine stats](https://github-readme-stats.vercel.app/api?username=ElaineCMendes)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Elaine Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineCMendes)](https://github.com/anuraghazra/github-readme-stats)
+
